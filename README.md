@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🤗 Myself: I am an undergraduate student currently pursuing Software Engineering.
+- 🌱 I’m currently at the stage of learning and then practicing.
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I m a short heightened girl with great ambitions and goals.
 <!--
 **Laiba-Khawaja/Laiba-Khawaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
